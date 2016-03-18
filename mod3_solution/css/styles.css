@@ -1,0 +1,26 @@
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#menu-content {
+  background-color: #f6b319;
+  height: 1000px
+}
+
+.menu-item-description{
+	padding: 10px;
+}
+
+#nav-list {
+  margin-top: 10px;
+  background-color: green;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
